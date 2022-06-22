@@ -1,4 +1,4 @@
-## VSCode setup for sample process with debugger setup 
+## VSCode sample setup for c++ projects with CMake tooling and debugger 
 
 - Vcpkg integration with CMake tools
 - CMakePresets setup for build process 
