@@ -12,6 +12,7 @@
                     "value": "${sourceDir}/vcpkg/scripts/buildsystems/vcpkg.cmake",
                     "type": "FILEPATH"
                 },
+                "VCPKG_BUILD": "ON",
                 "CMAKE_INSTALL_PREFIX": "${sourceDir}/out/install/${presetName}"
             }
         }
